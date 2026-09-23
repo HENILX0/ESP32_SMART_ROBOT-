@@ -38,3 +38,16 @@
 ### Total Grant Required
 
 * **Total Grant Required (USD):** **$11 USD**
+
+
+# Bill of Materials — Custom ESP32 PCB (JLCPCB)
+
+| # | Item | Qty | Dimensions / Specs | Description | Price (USD) | Source |
+|---|---|---|---|---|---|---|
+| 1 | Custom ESP32 PCB | 5 pcs | 60×70 mm (2-Layer, FR-4) | Custom designed PCB board for the ESP32 microcontroller and motor driver circuitry. | $2.00 USD | [JLCPCB Online Quote](https://jlcpcb.com/) |
+| 2 | Shipping & Handling | 1 | Standard International Delivery | Shipping charges for delivering the custom manufactured PCB boards. | $24.00 USD | [JLCPCB Delivery](https://jlcpcb.com/) |
+
+---
+
+### Total PCB Grant Required
+* **Total Estimated Price (USD):** **$26.00 USD**
