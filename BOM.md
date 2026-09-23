@@ -21,4 +21,6 @@
 
 # Bill of Materials 3D PARTS — Stardance Robot
 
-| 1 | GRIPPER 
+| # | Item | Qty |gram | Description | Price | Source |
+
+| 1 | TOP PART | 1 | 22.22$\text{cm}^3$
