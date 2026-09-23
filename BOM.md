@@ -23,4 +23,4 @@
 
 | # | Item | Qty |gram | Description | Price | Source |
 
-| 1 | TOP PART | 1 | 22.22$\text{cm}^3$
+| 1 | TOP PART | 1 | 22.22cm³ |       |$2.68 USD | https://robu.in/product/3d-printing-service1/ |
