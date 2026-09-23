@@ -23,15 +23,18 @@
 
 | # | Item | Qty | Gram / Volume | Description | Price (USD) | Source |
 |---|---|---|---|---|---|---|
-| 1 | TOP PART | 1 | 22.22 $\text{cm}^3$ | Robot ka upper part jahan servo motor mount hogi. | $2.68 USD | [Robu 3D Printing Service](https://robu.in/product/3d-printing-service1/) |
-| 2 | Servo & Ultrasonic Mount | 1 | 1.07 $\text{cm}^3$ | Servo par lagne wala part jisse ultrasonic sensor connect hota hai. | $0.31 USD | [Robu 3D Printing Service](https://robu.in/product/3d-printing-service1/) |
-| 3 | Robot Joint | 3 | 1.08 $\text{cm}^3$ (each) | Straight line link jo base, middle aur top parts ko connect karta hai (screws use hote hain). | $2.82 USD | [Robu 3D Printing Service](https://robu.in/product/3d-printing-service1/) |
-| 4 | Robot Base | 1 | 39.68 $\text{cm}^3$ | Main base jispe motors, battery aur motor driver mount honge. | $2.64 USD | [Robu 3D Printing Service](https://robu.in/product/3d-printing-service1/) |
-| 5 | Rack | 2 | 3.63 $\text{cm}^3$ (each) | Gripper ke move karne wale racks jo pinion se rotate hokar open/close honge. | $0.69 USD | [Robu 3D Printing Service](https://robu.in/product/3d-printing-service1/) |
-| 6 | Pinion | 1 | 0.58 $\text{cm}^3$ | Servo motor se connect hokar racks ko motion dene wala gear pinion. | $0.31 USD | [Robu 3D Printing Service](https://robu.in/product/3d-printing-service1/) |
-| 7 | Middle Part | 1 | 8.90 $\text{cm}^3$ | Robot ka middle section jiske upar ESP32 aur electronics rakhe jayenge. | $1.41 USD | [Robu 3D Printing Service](https://robu.in/product/3d-printing-service1/) |
-| 8 | H Pattern Frame | 1 | 6.98 $\text{cm}^3$ | Samne lagne wala H-pattern part jo base aur top ko connect karta hai (gripper yahin hota hai). | $0.48 USD | [Robu 3D Printing Service](https://robu.in/product/3d-printing-service1/) |
-| 9 | Gripper Base | 1 | 8.06 $\text{cm}^3$ | Base part jiske upar rack-and-pinion ka pura gripper setup baithta hai. | $0.38 USD | [Robu 3D Printing Service](https://robu.in/product/3d-printing-service1/) |
+| 1 | TOP PART | 1 | 22.22 $\text{cm}^3$ | Upper section of the robot designated for mounting the servo motor. | $2.68 USD | [Robu 3D Printing Service](https://robu.in/product/3d-printing-service1/) |
+| 2 | Servo & Ultrasonic Mount | 1 | 1.07 $\text{cm}^3$ | Custom mount attached to the servo for holding the ultrasonic sensor. | $0.31 USD | [Robu 3D Printing Service](https://robu.in/product/3d-printing-service1/) |
+| 3 | Robot Joint | 3 | 1.08 $\text{cm}^3$ (each) | Straight connector links used to join the base, middle, and top sections together using screws. | $2.82 USD | [Robu 3D Printing Service](https://robu.in/product/3d-printing-service1/) |
+| 4 | Robot Base | 1 | 39.68 $\text{cm}^3$ | Main chassis base used to mount drive motors, battery, and motor driver. | $2.64 USD | [Robu 3D Printing Service](https://robu.in/product/3d-printing-service1/) |
+| 5 | Rack | 2 | 3.63 $\text{cm}^3$ (each) | Linear rack components for the gripper that move back and forth to open and close. | $0.69 USD | [Robu 3D Printing Service](https://robu.in/product/3d-printing-service1/) |
+| 6 | Pinion | 1 | 0.58 $\text{cm}^3$ | Gear driven by the servo motor to transfer motion and actuate the gripper racks. | $0.31 USD | [Robu 3D Printing Service](https://robu.in/product/3d-printing-service1/) |
+| 7 | Middle Part | 1 | 8.90 $\text{cm}^3$ | Central chassis level designed to house the ESP32 microcontroller and electronics. | $1.41 USD | [Robu 3D Printing Service](https://robu.in/product/3d-printing-service1/) |
+| 8 | H Pattern Frame | 1 | 6.98 $\text{cm}^3$ | Structural H-frame mounted at the front linking the base to the top, housing the gripper assembly. | $0.48 USD | [Robu 3D Printing Service](https://robu.in/product/3d-printing-service1/) |
+| 9 | Gripper Base | 1 | 8.06 $\text{cm}^3$ | Base platform dedicated to housing the rack-and-pinion gripper mechanism. | $0.38 USD | [Robu 3D Printing Service](https://robu.in/product/3d-printing-service1/) |
+
+---
 
 ### Total Grant Required
-* **Total Grant Required (USD):** **$11USD**
+
+* **Total Grant Required (USD):** **$11 USD**
