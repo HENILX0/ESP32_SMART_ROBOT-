@@ -17,3 +17,8 @@
 | 12 | DPDT SWITCH 
 | 13 | MOTOR DRIVER 
 | 14 | DUAL BATTERY HOLDER 
+
+
+# Bill of Materials 3D PARTS — Stardance Robot
+
+| 1 | GRIPPER 
