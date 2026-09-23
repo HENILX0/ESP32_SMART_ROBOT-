@@ -33,3 +33,5 @@
 | 8 | H Pattern Frame | 1 | 6.98 $\text{cm}^3$ | Samne lagne wala H-pattern part jo base aur top ko connect karta hai (gripper yahin hota hai). | $0.48 USD | [Robu 3D Printing Service](https://robu.in/product/3d-printing-service1/) |
 | 9 | Gripper Base | 1 | 8.06 $\text{cm}^3$ | Base part jiske upar rack-and-pinion ka pura gripper setup baithta hai. | $0.38 USD | [Robu 3D Printing Service](https://robu.in/product/3d-printing-service1/) |
 
+### Total Grant Required
+* **Total Grant Required (USD):** **$11USD**
