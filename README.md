@@ -50,3 +50,14 @@ Every component in this robot has been custom-modeled in Onshape to ensure optim
 
 * **Description:** 
   This central platform is specifically designed to house the custom ESP32 control board and sensitive electronics[cite: 6]. It features a lightweight honeycomb lattice pattern[cite: 6], which not only reduces overall material weight and print time but also provides optimal cable management slots for clean wire routing[cite: 6]. Additionally, the open hexagonal geometry serves as multi-point anchor slots for zip-ties, allowing the custom PCB, sensors, and battery packs to be securely fastened down without shifting during robot movement[cite: 6].
+
+
+### 3. Top Deck ("Sensor & Servo Platform")
+
+![Top Part]
+
+<img width="1017" height="505" alt="top part" src="https://github.com/user-attachments/assets/8f0b0f8d-d901-4b66-9755-f129769d95f9" />
+
+
+* **Description:** 
+  Yeh robot ka topmost section hai jise specifically scanning assembly ke liye design kiya gaya hai[cite: 7]. Iske front flat platform par servo motor aur ultrasonic sensor ko securely mount karne ke liye cutouts diye gaye hain[cite: 7], jisse bina kisi rukawat ke 0-degree se 180-degree tak scanning ho sake. Saath hi, baaki ke hisse me honeycomb pattern diya gaya hai jo wires ko niche se upar pass karne ke liye clean routing slots provide karta hai[cite: 7].
