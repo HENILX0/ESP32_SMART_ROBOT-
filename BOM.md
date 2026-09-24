@@ -4,7 +4,7 @@
 |---|---|---|---|---|---|---|
 | 1 | TOP PART | 1 | 22.22 $\text{cm}^3$ | Upper section of the robot designated for mounting the servo motor. | $2.68 USD | [Robu 3D Printing Service](https://robu.in/product/3d-printing-service1/) |
 | 2 | Servo & Ultrasonic Mount | 1 | 1.07 $\text{cm}^3$ | Custom mount attached to the servo for holding the ultrasonic sensor. | $0.31 USD | [Robu 3D Printing Service](https://robu.in/product/3d-printing-service1/) |
-| 3 | Robot Joint | 3 | 1.08 $\text{cm}^3$ (each) | Straight connector links used to join the base, middle, and top sections together using screws. | $2.82 USD | [Robu 3D Printing Service](https://robu.in/product/3d-printing-service1/) |
+| 3 | Robot Joint | 3 | 1.08 $\text{cm}^3$ (each) | Straight connector links used to join the base, middle, and top sections together using screws. | $1.80 USD | [Robu 3D Printing Service](https://robu.in/product/3d-printing-service1/) |
 | 4 | Robot Base | 1 | 39.68 $\text{cm}^3$ | Main chassis base used to mount drive motors, battery, and motor driver. | $2.64 USD | [Robu 3D Printing Service](https://robu.in/product/3d-printing-service1/) |
 | 5 | Rack | 2 | 3.63 $\text{cm}^3$ (each) | Linear rack components for the gripper that move back and forth to open and close. | $0.69 USD | [Robu 3D Printing Service](https://robu.in/product/3d-printing-service1/) |
 | 6 | Pinion | 1 | 0.58 $\text{cm}^3$ | Gear driven by the servo motor to transfer motion and actuate the gripper racks. | $0.31 USD | [Robu 3D Printing Service](https://robu.in/product/3d-printing-service1/) |
