@@ -51,6 +51,7 @@
 | 13 | DPDT Switch | 1 | Already Available | — |
 | 14 | Motor Driver | 1 | Already Available | — |
 | 15 | Dual Battery Holder | 1 | Already Available | — |
+| 16 | Electronic components |As required | Already Available | — |
 
 ---
 
