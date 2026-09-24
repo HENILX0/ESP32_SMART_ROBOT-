@@ -25,3 +25,15 @@ The **Smart Relocator Robot** is fully automated to scan, detect, analyze, and r
 ### 4. Relocation & Placement
 * Once the object is securely grabbed by the rack-and-pinion mechanism, the robot executes a post-pickup scan.
 * It searches for an open space with a clear distance of **greater than 15 cm**, navigates to that location, and safely places the object down.
+
+
+## 🧩 Mechanical Design & 3D CAD Architecture
+
+Every component in this robot has been custom-modeled in Onshape to ensure optimal weight distribution, precise clearances, and structural rigidity. Below is the detailed breakdown of each custom 3D-printed part.
+
+### 1. Primary Chassis & Power Deck ("The Foundation Chassis")
+
+![Robot Base](images/robot_base.JPG)
+
+* **Description:** 
+  This serves as the main structural backbone of the entire robot. Designed to house the core heavy components, it securely anchors the drive motors, motor driver board, lithium-ion power cells, and the front/rear caster wheel for smooth, balanced mobility[cite: 4]. Additionally, it features built-in mounting bosses and vertical alignment slots to firmly secure the structural support strips that bridge the base deck to the middle and top electronic layers[cite: 4].
