@@ -43,15 +43,14 @@
 | 5 | Servo Motor | 2 | Already Available | — |
 | 6 | Lithium-ion Battery (3.7V) | 2 | $3.00 USD | [Amazon India](https://www.amazon.in/Flysmart-Capacity-Rechargeable-Batteries-Bluetooth/dp/B0DTTL1SZ4/) |
 | 7 | 2S BMS Module | 1 | $2.00 USD | [Amazon India](https://www.amazon.in/JIVITH-Lithium-Battery-Protection-Module/dp/B0HGMHS17H/) |
-| 8 | M3 Screws | 20 | Already Available | — |
-| 9 | M2.5 Screw & Nuts Assortment Kit | 1 | $3.50 USD | [Amazon India](https://www.amazon.in/Metric-Stainless-Steel-Phillips-Washer/dp/B07GKWFQSV/) |
-| 10 | Wheel BO MOTOR | 2 | Already Available | — |
-| 11 | Caster Wheel | 1 | Already Available | — |
-| 12 | Wire | As required | Already Available | — |
-| 13 | LM2596 DC-DC Buck Converter | 1 | Already Available | — |
-| 14 | DPDT Switch | 1 | Already Available | — |
-| 15 | Motor Driver | 1 | Already Available | — |
-| 16 | Dual Battery Holder | 1 | Already Available | — |
+| 8 | M2.5 Screw & Nuts Assortment Kit | 1 | $3.50 USD | [Amazon India](https://www.amazon.in/Metric-Stainless-Steel-Phillips-Washer/dp/B07GKWFQSV/) |
+| 9 | Wheel BO MOTOR | 2 | Already Available | — |
+| 10 | Caster Wheel | 1 | Already Available | — |
+| 11 | Wire | As required | Already Available | — |
+| 12 | LM2596 DC-DC Buck Converter | 1 | Already Available | — |
+| 13 | DPDT Switch | 1 | Already Available | — |
+| 14 | Motor Driver | 1 | Already Available | — |
+| 15 | Dual Battery Holder | 1 | Already Available | — |
 
 ---
 
