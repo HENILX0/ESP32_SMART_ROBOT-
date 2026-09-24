@@ -82,3 +82,35 @@ This acts as the uppermost structural deck of the robot, dedicated entirely to h
 
 * **Description:** 
  This custom-engineered coupling bracket bridges the servo motor shaft and the ultrasonic sensor module. It is designed to translate rotational motion directly into accurate angular sweeps without mechanical backlash or wobbling. This ensures that the distance readings and heading angles collected during the $0^\circ$ to $180^\circ$ scanning phase remain precise and reliable.
+
+
+### 6. Gripper Base Plate ("Rack-and-Pinion Foundation Platform")
+
+![Gripper Support Part]
+
+<img width="1149" height="498" alt="gripper supprot part" src="https://github.com/user-attachments/assets/089b52fc-4ac9-4fe7-9c06-5edff4382b7a" />
+
+
+* **Description:** 
+  This dedicated mounting platform serves as the structural base for the robot's custom grip mechanism. It securely aligns and houses the linear rack-and-pinion components, providing a stable guide track for smooth sliding motion. The central cutout allows for direct motor or gear shaft integration, ensuring that the rotational input translates cleanly into symmetrical opening and closing actions for picking up objects within the 14 cm limit.
+
+  ### 7. Front Gripper Mount ("H-Pattern Structural Link")
+
+![H Part]
+
+<img width="928" height="476" alt="h part" src="https://github.com/user-attachments/assets/ad7be9cc-666a-4fef-9312-5e1943e64921" />
+
+
+* **Description:** 
+  This robust H-pattern structural frame is mounted directly onto the front section of the robot's main chassis. It acts as the primary transition bridge and load-bearing platform that securely anchors the gripper base plate to the robot. Designed with precision mounting holes and a central cable/actuator passthrough cutout, this frame ensures rigid alignment between the front-end manipulator mechanism and the main body, absorbing mechanical loads and stresses during object lifting and manipulation tasks.
+
+
+  ### 8. Gripper Jaw Assembly ("Rack and Linear Slide")
+
+![Rack]
+
+<img width="954" height="512" alt="rack" src="https://github.com/user-attachments/assets/c9ff4a32-933a-4050-b939-46baf71c8cca" />
+
+
+* **Description:** 
+  This is the custom-designed rack and integrated jaw component that generates linear motion[cite: 11]. When the pinion gear meshes and rotates along this rack, it efficiently converts rotational motion into smooth linear travel[cite: 11]. This mechanism enables the gripper jaws to open and close symmetrically, ensuring precise and reliable object pickup and placement operations within the 14 cm constraint limit[cite: 11].
