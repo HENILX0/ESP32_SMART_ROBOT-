@@ -34,19 +34,25 @@
 
 # Bill of Materials — Stardance Robot
 
-| # | Item | Qty | Description | Price | Source |
-|---|---|---:|---|---:|---|
-| 1 | ESP32 Dev Board | 1 | 
-| 2 | BO Motor | 2 | 
-| 3 | MPU6050 Sensor | 1 |
-| 4 | Ultrasonic sensor | 1 | 
-| 5 | Servo Motor | 2 | 
-| 6 |3.7v Lithium ion battery  | 2 | 3D printed mount | ₹___ | 3D Printing Service |
-| 7 | M3 Screws | 20 | Mechanical assembly | ₹___ | Local Supplier |
-| 8 | Wheel BO MOTOR |2|
-| 9 | Caster Wheel 
-| 10 | Wire
-| 11 | LM2596 DC - DC buck converter
-| 12 | DPDT SWITCH 
-| 13 | MOTOR DRIVER 
-| 14 | DUAL BATTERY HOLDER 
+| # | Item | Qty | Price | Source |
+|---|---|---:|---:|---|
+| 1 | ESP32 Dev Board | 1 | Already Available | — |
+| 2 | BO Motor | 2 | Already Available | — |
+| 3 | MPU6050 Sensor | 1 | Already Available | — |
+| 4 | Ultrasonic sensor | 1 | Already Available | — |
+| 5 | Servo Motor | 2 | Already Available | — |
+| 6 | Lithium-ion Battery (3.7V) | 2 | $3.50 USD | [Amazon India](https://www.amazon.in/Flysmart-Capacity-Rechargeable-Batteries-Bluetooth/dp/B0DTTL1SZ4/) |
+| 7 | 2S BMS Module | 1 | $2.00 USD | [Amazon India](https://www.amazon.in/JIVITH-Lithium-Battery-Protection-Module/dp/B0HGMHS17H/) |
+| 8 | M3 Screws | 20 | Already Available | — |
+| 9 | Wheel BO MOTOR | 2 | Already Available | — |
+| 10 | Caster Wheel | 1 | Already Available | — |
+| 11 | Wire | As required | Already Available | — |
+| 12 | LM2596 DC-DC Buck Converter | 1 | Already Available | — |
+| 13 | DPDT Switch | 1 | Already Available | — |
+| 14 | Motor Driver | 1 | Already Available | — |
+| 15 | Dual Battery Holder | 1 | Already Available | — |
+
+---
+
+### Total Components Grant Required
+* **Total Estimated Price (USD):** **$5.50 USD**
