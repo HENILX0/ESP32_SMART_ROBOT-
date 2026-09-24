@@ -114,3 +114,14 @@ This acts as the uppermost structural deck of the robot, dedicated entirely to h
 
 * **Description:** 
   This is the custom-designed rack and integrated jaw component that generates linear motion[cite: 11]. When the pinion gear meshes and rotates along this rack, it efficiently converts rotational motion into smooth linear travel[cite: 11]. This mechanism enables the gripper jaws to open and close symmetrically, ensuring precise and reliable object pickup and placement operations within the 14 cm constraint limit[cite: 11].
+
+
+### 9. Drive Gear ("Pinion Actuator")
+
+![Pinion Part]
+
+<img width="695" height="493" alt="pinion part" src="https://github.com/user-attachments/assets/58cf1015-d83a-4199-9fae-789ef45ac794" />
+
+
+* **Description:** 
+  This custom pinion gear connects directly to the servo motor shaft[cite: 12]. As the servo rotates, the gear meshes with the rack slides to drive the gripper jaws open and closed[cite: 11, 12].
