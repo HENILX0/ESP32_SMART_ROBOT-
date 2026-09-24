@@ -38,4 +38,15 @@ Every component in this robot has been custom-modeled in Onshape to ensure optim
 
 
 * **Description:** 
-  This serves as the main structural backbone of the entire robot. Designed to house the core heavy components, it securely anchors the drive motors, motor driver board, lithium-ion power cells, and the front/rear caster wheel for smooth, balanced mobility[cite: 4]. Additionally, it features built-in mounting bosses and vertical alignment slots to firmly secure the structural support strips that bridge the base deck to the middle and top electronic layers[cite: 4].
+  This serves as the main structural backbone of the entire robot. Designed to house the core heavy components, it securely anchors the drive motors, motor driver board, lithium-ion power cells, and the front/rear caster wheel for smooth, balanced mobility. Additionally, it features built-in mounting bosses and vertical alignment slots to firmly secure the structural support strips that bridge the base deck to the middle and top electronic layers
+
+
+### 2. Electronics Deck ("The Honeycomb Core")
+
+![Middle Part]
+
+<img width="948" height="500" alt="middle part" src="https://github.com/user-attachments/assets/d043ec15-5fa9-44a6-9967-1e2205e6fde0" />
+
+
+* **Description:** 
+  This central platform is specifically designed to house the custom ESP32 control board and sensitive electronics[cite: 6]. It features a lightweight honeycomb lattice pattern[cite: 6], which not only reduces overall material weight and print time but also provides optimal cable management slots for clean wire routing[cite: 6]. Additionally, the open hexagonal geometry serves as multi-point anchor slots for zip-ties, allowing the custom PCB, sensors, and battery packs to be securely fastened down without shifting during robot movement[cite: 6].
