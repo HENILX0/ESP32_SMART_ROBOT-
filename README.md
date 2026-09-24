@@ -1,4 +1,3 @@
-<img width="1007" height="501" alt="robot base" src="https://github.com/user-attachments/assets/0306ccad-8e26-4a45-b237-39327acdb4b1" />
 <img width="939" height="486" alt="esp32robott" src="https://github.com/user-attachments/assets/62d47097-395f-422c-b95b-c3dd23170dd1" />
 # ESP32_SMART_ROBOT-
 
@@ -61,3 +60,14 @@ Every component in this robot has been custom-modeled in Onshape to ensure optim
 
 * **Description:** 
   Yeh robot ka topmost section hai jise specifically scanning assembly ke liye design kiya gaya hai[cite: 7]. Iske front flat platform par servo motor aur ultrasonic sensor ko securely mount karne ke liye cutouts diye gaye hain[cite: 7], jisse bina kisi rukawat ke 0-degree se 180-degree tak scanning ho sake. Saath hi, baaki ke hisse me honeycomb pattern diya gaya hai jo wires ko niche se upar pass karne ke liye clean routing slots provide karta hai[cite: 7].
+
+
+### 4. Structural Support Strips ("Vertical Chassis Connectors")
+
+![Robot Joint]
+
+<img width="898" height="496" alt="robot joint" src="https://github.com/user-attachments/assets/974b9bce-6dcc-48f9-85a6-e8eb22485024" />
+
+
+* **Description:** 
+  Yeh vertical support strips hain jo robot ke base, middle, aur top layers ko aapas me mazbooti se connect karti hain[cite: 7]. Is assembly me total 3 units use hoti hain jo left, right, aur back sides par lagti hain[cite: 7]. Inhe secure karne ke liye 2.5mm ke screws ka use kiya jata hai, jisse poora structure rigid aur stable rehta hai[cite: 7].
