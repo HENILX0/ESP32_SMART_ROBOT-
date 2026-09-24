@@ -1,3 +1,4 @@
+<img width="1007" height="501" alt="robot base" src="https://github.com/user-attachments/assets/0306ccad-8e26-4a45-b237-39327acdb4b1" />
 <img width="939" height="486" alt="esp32robott" src="https://github.com/user-attachments/assets/62d47097-395f-422c-b95b-c3dd23170dd1" />
 # ESP32_SMART_ROBOT-
 
@@ -33,7 +34,8 @@ Every component in this robot has been custom-modeled in Onshape to ensure optim
 
 ### 1. Primary Chassis & Power Deck ("The Foundation Chassis")
 
-![Robot Base](images/robot_base.JPG)
+<img width="1007" height="501" alt="robot base" src="https://github.com/user-attachments/assets/066f04dc-b692-47b1-b16c-708442dbeeea" />
+
 
 * **Description:** 
   This serves as the main structural backbone of the entire robot. Designed to house the core heavy components, it securely anchors the drive motors, motor driver board, lithium-ion power cells, and the front/rear caster wheel for smooth, balanced mobility[cite: 4]. Additionally, it features built-in mounting bosses and vertical alignment slots to firmly secure the structural support strips that bridge the base deck to the middle and top electronic layers[cite: 4].
