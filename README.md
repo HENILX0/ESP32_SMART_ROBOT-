@@ -58,8 +58,8 @@ Every component in this robot has been custom-modeled in Onshape to ensure optim
 <img width="1017" height="505" alt="top part" src="https://github.com/user-attachments/assets/8f0b0f8d-d901-4b66-9755-f129769d95f9" />
 
 
-* **Description:** 
-  Yeh robot ka topmost section hai jise specifically scanning assembly ke liye design kiya gaya hai[cite: 7]. Iske front flat platform par servo motor aur ultrasonic sensor ko securely mount karne ke liye cutouts diye gaye hain[cite: 7], jisse bina kisi rukawat ke 0-degree se 180-degree tak scanning ho sake. Saath hi, baaki ke hisse me honeycomb pattern diya gaya hai jo wires ko niche se upar pass karne ke liye clean routing slots provide karta hai[cite: 7].
+* **Description:**
+This acts as the uppermost structural deck of the robot, dedicated entirely to housing the scanning assembly. Its front flat platform features precise cutouts to securely mount the servo motor and ultrasonic sensor, allowing for an unobstructed $0^\circ$ to $180^\circ$ sweep. The remaining surface incorporates a honeycomb grid structure, ensuring a lightweight profile while providing dedicated routing channels for sensor wiring to drop down to the main electronics deck.
 
 
 ### 4. Structural Support Strips ("Vertical Chassis Connectors")
@@ -70,7 +70,7 @@ Every component in this robot has been custom-modeled in Onshape to ensure optim
 
 
 * **Description:** 
-  Yeh vertical support strips hain jo robot ke base, middle, aur top layers ko aapas me mazbooti se connect karti hain[cite: 7]. Is assembly me total 3 units use hoti hain jo left, right, aur back sides par lagti hain[cite: 7]. Inhe secure karne ke liye 2.5mm ke screws ka use kiya jata hai, jisse poora structure rigid aur stable rehta hai[cite: 7].
+  These are vertical support links engineered to rigidly connect the base, middle, and top decks together into a unified chassis. A total of three units are deployed across the left, right, and rear sections of the robot. Secured using precision 2.5 mm screws, these connectors eliminate flex and maintain exact vertical spacing between layers to ensure overall structural integrity.
 
 
 ### 5. Sensor Mounting Bracket ("Servo-Ultrasonic Coupling Joint")
@@ -81,4 +81,4 @@ Every component in this robot has been custom-modeled in Onshape to ensure optim
 
 
 * **Description:** 
-  Yeh ek custom-designed mechanical coupling bracket hai jo servo motor aur ultrasonic sensor ko aapas me securely connect karta hai. Iska main kaam yeh ensure karna hai ki jab servo motor $0^\circ$ se $180^\circ$ tak rotate ho, toh ultrasonic sensor bhi smoothly aur perfectly synchronized hoke poore environment ko scan kar sake. Is mounting design ki wajah se scanning process ke dauran sensor me koi wobble ya loose alignment nahi hoti.
+ This custom-engineered coupling bracket bridges the servo motor shaft and the ultrasonic sensor module. It is designed to translate rotational motion directly into accurate angular sweeps without mechanical backlash or wobbling. This ensures that the distance readings and heading angles collected during the $0^\circ$ to $180^\circ$ scanning phase remain precise and reliable.
