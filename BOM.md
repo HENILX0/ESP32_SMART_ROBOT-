@@ -57,3 +57,10 @@
 
 ### Total Components Grant Required
 * **Total Estimated Price (USD):** **$8.50 USD**
+
+
+----
+
+
+### Total Components Grant Required
+* **Total Estimated Price (USD):** **$47.50 USD**
