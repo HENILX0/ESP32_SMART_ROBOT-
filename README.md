@@ -1,3 +1,4 @@
+<img width="939" height="486" alt="esp32robott" src="https://github.com/user-attachments/assets/62d47097-395f-422c-b95b-c3dd23170dd1" />
 # ESP32_SMART_ROBOT-
 
 ## ⚙️ How It Works (Working Mechanism & Algorithm)
