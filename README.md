@@ -141,3 +141,7 @@ Interface: IN1 = 15, IN2 = 2, IN3 = 4, IN4 = 5, ENA = 27, ENB = 26Actuators & St
 
 https://github.com/user-attachments/assets/c385274c-e79a-47ae-9acf-f8de7c93ed3c
 
+**Current Implementation Status:** 
+  This functional prototype demonstrates the core mobility, power distribution, and scanning subsystems of the robot. At this stage, the integrated ESP32 microcontroller processes real-time distance data from the servo-swept ultrasonic sensor to successfully detect objects in its environment and navigate toward them. 
+* **Notes on Current Build:** 
+  The rack-and-pinion gripper mechanism is currently omitted from this testing phase as final 3D prints are pending production However, the core chassis, dual lithium-ion power configuration, buck converter regulation, and motor driving logic have been fully validated on this physical hardware build
