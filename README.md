@@ -125,3 +125,12 @@ This acts as the uppermost structural deck of the robot, dedicated entirely to h
 
 * **Description:** 
   This custom pinion gear connects directly to the servo motor shaft[cite: 12]. As the servo rotates, the gear meshes with the rack slides to drive the gripper jaws open and closed[cite: 11, 12].
+
+
+<img width="1366" height="735" alt="gg" src="https://github.com/user-attachments/assets/a4bc0c54-0e1f-404a-9f8b-094f6bdad211" />
+<img width="1366" height="736" alt="gnd pcb" src="https://github.com/user-attachments/assets/b1a8278a-ddd9-4a58-a1bf-fd33ea41144a" />
+<img width="1366" height="690" alt="gnf" src="https://github.com/user-attachments/assets/b6bf7a72-2c31-4603-bcc1-9dbf7dc74750" />
+
+
+Custom Electronic Circuit & PCB DesignPower Management:The system is powered by a dual 3.7V lithium-ion battery setup (delivering roughly 7V total), connected through a master DPDT power switch. An LM2596 buck converter steps down this voltage to a stable 5V output rail, paired with a large 1000uF smoothing capacitor to handle current spikes. This regulated 5V line supplies clean power to the ESP32 microcontroller, dual servo motors, ultrasonic sensor, and the MPU6050 IMU module.PCB Layout & Grounding (KiCad):
+Designed entirely in KiCad, the board features solid ground planes on both the front and back layers using filled copper zones to minimize electrical noise and ensure a robust return path.   ESP32 GPIO Pin Configuration:Motor Driver Interface: IN1 = 15, IN2 = 2, IN3 = 4, IN4 = 5, ENA = 27, ENB = 26Actuators & Status: Servo 1 = 12, Servo 2 = 14, Status LED = 18 (driven via GPIO)Sensors: MPU6050 (connected via standard SDA and SCL lines), Ultrasonic Sensor — Trig = 32, Echo = 33
