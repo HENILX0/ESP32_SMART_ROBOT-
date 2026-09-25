@@ -145,3 +145,11 @@ https://github.com/user-attachments/assets/c385274c-e79a-47ae-9acf-f8de7c93ed3c
   This functional prototype demonstrates the core mobility, power distribution, and scanning subsystems of the robot. At this stage, the integrated ESP32 microcontroller processes real-time distance data from the servo-swept ultrasonic sensor to successfully detect objects in its environment and navigate toward them. 
 * **Notes on Current Build:** 
   The rack-and-pinion gripper mechanism is currently omitted from this testing phase as final 3D prints are pending production However, the core chassis, dual lithium-ion power configuration, buck converter regulation, and motor driving logic have been fully validated on this physical hardware build
+
+
+###  Grant Utilization & Future Scope ("Why Stardance Funding?")
+
+* **Funding Objective:** 
+  The primary goal of applying for the Stardance grant is to secure essential funding for high-precision 3D printing of the complex mechanical assemblies (specifically the rack-and-pinion gripper and structural enclosures) and professional-grade manufacturing of the custom ESP32 Printed Circuit Board (PCB). 
+* **Project Completion:** 
+  While the foundational architecture, firmware logic, and basic mobile tracking prototype have been successfully validated[cite: 12], the grant will directly enable the transition from a breadboard/prototype setup to a fully integrated, robust, and production-ready autonomous relocation robot.
