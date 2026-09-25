@@ -155,3 +155,8 @@ https://github.com/user-attachments/assets/c385274c-e79a-47ae-9acf-f8de7c93ed3c
   The primary goal of applying for the Stardance grant is to secure essential funding for high-precision 3D printing of the complex mechanical assemblies (specifically the rack-and-pinion gripper and structural enclosures) and professional-grade manufacturing of the custom ESP32 Printed Circuit Board (PCB). 
 * **Project Completion:** 
   While the foundational architecture, firmware logic, and basic mobile tracking prototype have been successfully validated, the grant will directly enable the transition from a breadboard/prototype setup to a fully integrated, robust, and production-ready autonomous relocation robot.
+
+### Firmware & Development Note
+
+* **Note on Code Reconstruction:** During the development phase, the original Arduino IDE code was accidentally lost. However, the firmware has been successfully rewritten and optimized from scratch for the ESP32 platform. 
+* **Current Implementation:** The current script handles core functionalities including servo-driven ultrasonic scanning, multi-directional motor control (Forward, Right, Left, Stop), and actuator logic. Future updates will introduce advanced spatial mapping, IMU sensor fusion (MPU6050), and trigonometric coordinate calculations for precise autonomous object relocation.
