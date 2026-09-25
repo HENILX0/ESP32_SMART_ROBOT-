@@ -158,5 +158,5 @@ https://github.com/user-attachments/assets/c385274c-e79a-47ae-9acf-f8de7c93ed3c
 
 ### Firmware & Development Note
 
-* **Note on Code Reconstruction:** During the development phase, the original Arduino IDE code was accidentally lost. However, the firmware has been successfully rewritten and optimized from scratch for the ESP32 platform. 
+* **Note on Code Reconstruction:** During the development phase, the original Arduino IDE code was accidentally lost. However, the firmware has been successfully rewritten and optimized from scratch for the ESP32. 
 * **Current Implementation:** The current script handles core functionalities including servo-driven ultrasonic scanning, multi-directional motor control (Forward, Right, Left, Stop), and actuator logic. Future updates will introduce advanced spatial mapping, IMU sensor fusion (MPU6050), and trigonometric coordinate calculations for precise autonomous object relocation.
