@@ -27,11 +27,13 @@ The **Smart Relocator Robot** is fully automated to scan, detect, analyze, and r
 * It searches for an open space with a clear distance of **greater than 15 cm**, navigates to that location, and safely places the object down.
 
 
-## 🧩 Mechanical Design & 3D CAD Architecture
+##  Mechanical Design & 3D CAD Architecture
 
 Every component in this robot has been custom-modeled in Onshape to ensure optimal weight distribution, precise clearances, and structural rigidity. Below is the detailed breakdown of each custom 3D-printed part.
 
 ### 1. Primary Chassis & Power Deck ("The Foundation Chassis")
+
+base part of robot
 
 <img width="1007" height="501" alt="robot base" src="https://github.com/user-attachments/assets/066f04dc-b692-47b1-b16c-708442dbeeea" />
 
@@ -42,7 +44,7 @@ Every component in this robot has been custom-modeled in Onshape to ensure optim
 
 ### 2. Electronics Deck ("The Honeycomb Core")
 
-![Middle Part]
+Middle Part
 
 <img width="948" height="500" alt="middle part" src="https://github.com/user-attachments/assets/d043ec15-5fa9-44a6-9967-1e2205e6fde0" />
 
@@ -53,7 +55,7 @@ Every component in this robot has been custom-modeled in Onshape to ensure optim
 
 ### 3. Top Deck ("Sensor & Servo Platform")
 
-![Top Part]
+Top Part
 
 <img width="1017" height="505" alt="top part" src="https://github.com/user-attachments/assets/8f0b0f8d-d901-4b66-9755-f129769d95f9" />
 
@@ -64,7 +66,7 @@ This acts as the uppermost structural deck of the robot, dedicated entirely to h
 
 ### 4. Structural Support Strips ("Vertical Chassis Connectors")
 
-![Robot Joint]
+Robot Joint
 
 <img width="898" height="496" alt="robot joint" src="https://github.com/user-attachments/assets/974b9bce-6dcc-48f9-85a6-e8eb22485024" />
 
@@ -75,7 +77,7 @@ This acts as the uppermost structural deck of the robot, dedicated entirely to h
 
 ### 5. Sensor Mounting Bracket ("Servo-Ultrasonic Coupling Joint")
 
-![Ultrasonic Servo Joint]
+Ultrasonic Servo Joint
 
 <img width="873" height="409" alt="ultrasonic servo joint" src="https://github.com/user-attachments/assets/8923b9d4-4690-469e-a919-32a8c39e2181" />
 
@@ -86,7 +88,7 @@ This acts as the uppermost structural deck of the robot, dedicated entirely to h
 
 ### 6. Gripper Base Plate ("Rack-and-Pinion Foundation Platform")
 
-![Gripper Support Part]
+Gripper Support Part
 
 <img width="1149" height="498" alt="gripper supprot part" src="https://github.com/user-attachments/assets/089b52fc-4ac9-4fe7-9c06-5edff4382b7a" />
 
@@ -96,7 +98,7 @@ This acts as the uppermost structural deck of the robot, dedicated entirely to h
 
   ### 7. Front Gripper Mount ("H-Pattern Structural Link")
 
-![H Part]
+H Part
 
 <img width="928" height="476" alt="h part" src="https://github.com/user-attachments/assets/ad7be9cc-666a-4fef-9312-5e1943e64921" />
 
@@ -107,24 +109,24 @@ This acts as the uppermost structural deck of the robot, dedicated entirely to h
 
   ### 8. Gripper Jaw Assembly ("Rack and Linear Slide")
 
-![Rack]
+Rack
 
 <img width="954" height="512" alt="rack" src="https://github.com/user-attachments/assets/c9ff4a32-933a-4050-b939-46baf71c8cca" />
 
 
 * **Description:** 
-  This is the custom-designed rack and integrated jaw component that generates linear motion[cite: 11]. When the pinion gear meshes and rotates along this rack, it efficiently converts rotational motion into smooth linear travel[cite: 11]. This mechanism enables the gripper jaws to open and close symmetrically, ensuring precise and reliable object pickup and placement operations within the 14 cm constraint limit[cite: 11].
+  This is the custom-designed rack and integrated jaw component that generates linear motion When the pinion gear meshes and rotates along this rack, it efficiently converts rotational motion into smooth linear travel This mechanism enables the gripper jaws to open and close symmetrically, ensuring precise and reliable object pickup and placement operations within the 14 cm constraint limit.
 
 
 ### 9. Drive Gear ("Pinion Actuator")
 
-![Pinion Part]
+Pinion Part
 
 <img width="695" height="493" alt="pinion part" src="https://github.com/user-attachments/assets/58cf1015-d83a-4199-9fae-789ef45ac794" />
 
 
 * **Description:** 
-  This custom pinion gear connects directly to the servo motor shaft[cite: 12]. As the servo rotates, the gear meshes with the rack slides to drive the gripper jaws open and closed[cite: 11, 12].
+  This custom pinion gear connects directly to the servo motor shaft As the servo rotates, the gear meshes with the rack slides to drive the gripper jaws open and closed.
 
 
 <img width="1366" height="735" alt="gg" src="https://github.com/user-attachments/assets/a4bc0c54-0e1f-404a-9f8b-094f6bdad211" />
@@ -152,4 +154,4 @@ https://github.com/user-attachments/assets/c385274c-e79a-47ae-9acf-f8de7c93ed3c
 * **Funding Objective:** 
   The primary goal of applying for the Stardance grant is to secure essential funding for high-precision 3D printing of the complex mechanical assemblies (specifically the rack-and-pinion gripper and structural enclosures) and professional-grade manufacturing of the custom ESP32 Printed Circuit Board (PCB). 
 * **Project Completion:** 
-  While the foundational architecture, firmware logic, and basic mobile tracking prototype have been successfully validated[cite: 12], the grant will directly enable the transition from a breadboard/prototype setup to a fully integrated, robust, and production-ready autonomous relocation robot.
+  While the foundational architecture, firmware logic, and basic mobile tracking prototype have been successfully validated, the grant will directly enable the transition from a breadboard/prototype setup to a fully integrated, robust, and production-ready autonomous relocation robot.
